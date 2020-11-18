@@ -1,0 +1,11 @@
+
+
+Decidí buscar algo en específico. Busqué la palabra 'python' y me aparecieron diferentes repositorios que contenían proyectos e incluso cursos de este lenguaje, que fueron creados por otros usuarios.
+
+Esto hizo que me acordara de que hace unos cuantos meses me topé con el siguiente repositorio:
+https://github.com/ossu/data-science.git 
+En aquel momento me costó trabajo entender de qué trataba github pero ahora ya lo tengo mucho más claro.
+
+
+
+
