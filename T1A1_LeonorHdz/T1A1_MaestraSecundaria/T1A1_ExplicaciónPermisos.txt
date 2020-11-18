@@ -1,0 +1,28 @@
+
+
+
+Cuango hice el primer cambio sobre el owner solo me permitía leer el archivo pero no podía 
+realizar ningún otro cambio. Me aparecía lo siguiente:
+
+	[Read-Only] 	- 	cuando hago chmod u-w (escritura)
+
+
+
+Al momento de modificar nuevamente los permisos ya ni siquiera me permitía visualizar el texto. 
+El mensaje que me aparecía en la ventana del editor de texto era el siguiente:
+
+	Could not open the file “/home/misscheems/Documen…A1_LeonorHdz/GpePonce.txt”.
+	You do not have the permissions necessary to open the file.
+
+	Esto fue con chmod u-r (lectura)
+
+
+
+Con chmod se pueden establecer diferentes permisos (lectura, escritura y ejecuciòn) para cada uno de los usuarios, grupos u otros. 
+Esto funciona tanto para archivos como para directorios.
+
+	u - para owner
+	g - para el grupo
+	o - para otro 
+
+

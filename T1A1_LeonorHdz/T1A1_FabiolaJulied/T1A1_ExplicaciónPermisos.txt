@@ -1,0 +1,26 @@
+
+
+
+Para los directorios:
+
+
+Lo siguiente sucede cuando utilizo chmod u-x 
+
+	misscheems@Mina:~/Documents/T1A1_LeonorHdz$ cd T1A1_MaestraSecundaria/
+	-su: cd: T1A1_MaestraSecundaria/: Permission denied
+
+
+Cuando utilizo la instruccion para retirar el permiso de escritura sí puedo abrir un archivo desde la carpeta pero no lo puedo guardar ahí:
+
+	Could not save the file “/home/misscheems/Documen…estraSecundaria/texto.txt”.
+	You do not have the permissions necessary to save the file. Please check that you typed 	the location correctly and try again.
+
+
+
+Para probar u-r, primero abrí un nuevo archivo dentro de la carpeta T1A1_FabiolaJulied, después cambié el permiso y enseguida traté de comprobar la existencia del archivo con ls pero no me lo permitió:
+
+	misscheems@Mina:~/Documents/T1A1_LeonorHdz$ chmod u-r T1A1_FabiolaJulied/
+	misscheems@Mina:~/Documents/T1A1_LeonorHdz$ cd T1A1_FabiolaJulied/
+	misscheems@Mina:~/Documents/T1A1_LeonorHdz/T1A1_FabiolaJulied$ ls 
+	ls: cannot open directory '.': Permission denied
+
