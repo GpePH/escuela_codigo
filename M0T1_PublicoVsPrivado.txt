@@ -1,0 +1,18 @@
+
+
+Al abrir el enlace de Mi primer proyecto, no tengo ningún problema y lo puedo abrir normalmente (usando el modo incógnito).
+
+Pasa algo muy diferente cuando trato de hacer lo mismo con el enlace de Mi segundo proyecto.
+En la ventana me aparece el siguiente mensaje:
+
+	404 This is not the web page you are looking for.
+
+El error salta de inmediato y no me da acceso al repositorio.
+
+
+
+Imagino que esto sucede porque el repositorio Mi_segundo_proyecto está configurado
+en modo privado, lo cual restringe el acceso a cualquier persona con el enlace y con esto
+solo podrían ingresar las personas que sean agregadas como colaboradores.
+
+
