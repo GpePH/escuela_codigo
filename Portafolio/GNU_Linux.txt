@@ -1,4 +1,5 @@
 
 
-
+GNU/Linux es un sistema operativo libre. Esto quiere decir que puede ser usado, modificado y distribuido sin necesidad de permisos y no tiene costo.
+El software libre también se caracteriza por tener como prioridad al usario y a su comunidad. Este tipo de software tiene la ventaja de que muchas personas trabajan en conjunto para realizar mejoras, y estas mejoras son compartidas con el resto de usuarios. 
 ...
